@@ -4,7 +4,7 @@
 ### ✧*:.｡. Apresentação .｡.:*✧
 - 👩🏻‍💻 Estudante de engenharia de software no 2º semestre (Estácio)
 - 🖥️ Aprendendo python, c, html e javascript
-- 🌎 Idiomas: Português nativo | Espanhol intermediário | Inglês básico
+- 🌎 Idiomas: Português C2 | Espanhol B2 | Inglês A2
 - 👩🏻 Pronomes: Ela/dela
 
 <div style="display: inline_block"><br>
