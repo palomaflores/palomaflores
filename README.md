@@ -1,7 +1,8 @@
 ## Olá, eu sou a Paloma Flores (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-
+- 👩🏻‍💻 Estudante de engenharia de software no 2º semestre (Estácio)
 - 🖥️ Aprendendo python, c, html e javascript
 - 🌎 Idiomas: Português nativo | Espanhol intermediário | Inglês básico
+- 👩🏻 Pronomes: Ela/dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paloma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
