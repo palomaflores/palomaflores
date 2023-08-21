@@ -40,3 +40,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
+![snake gif](https://github.com/palomaflores/palomaflores/blob/output/github-contribution-grid-snake.svg)
