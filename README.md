@@ -22,16 +22,16 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomaflores&bg_color=0d1117&color=df91a9&line=df91a9&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{palomaflores}/count.svg" /></p> 
+<br>
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=df91a9)](https://www.linkedin.com/in/paloma-flores1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=df91a9)](mailto:pahzinhaflores2000@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=df91a9)](https://www.instagram.com/palomacode/)
-</div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{palomaflores}/count.svg" /></p> 
-<br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=df91a9&height=120&section=footer"/>
