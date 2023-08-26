@@ -5,7 +5,7 @@
 
 <div align="center">
   
-#### _Conecte-se comigo_
+#### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=df91a9)](https://www.linkedin.com/in/paloma-flores1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=df91a9)](mailto:pahzinhaflores2000@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=df91a9)](https://www.instagram.com/palomacode/)
@@ -13,7 +13,7 @@
 
 <div align="center">
   
-#### _Tecnologias que estou estudando_
+#### Tecnologias que estou estudando
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=df91a9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=df91a9)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=df91a9)
@@ -23,7 +23,7 @@
 
 <div align="center">
   
-#### _Tecnologias que pretendo estudar_
+#### Tecnologias que pretendo estudar
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=df91a9)
 ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=df91a9)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=df91a9)
