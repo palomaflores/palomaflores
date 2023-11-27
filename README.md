@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=df91a9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab8977&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=df91a9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Paloma+Flores;I'm+22+years+old;I'm+from+Brazil;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)
 
@@ -14,13 +14,13 @@
 ### Studying in this moment:
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-df91a9?style=for-the-badge&logo=python&logoColor=FFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-df91a9?style=for-the-badge&logo=javascript&logoColor=FFF)
-![C](https://img.shields.io/badge/C-df91a9?style=for-the-badge&logo=c&logoColor=FFF)
-[![Git](https://img.shields.io/badge/Git-df91a9?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-df91a9?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
-![HTML5](https://img.shields.io/badge/HTML5-df91a9?style=for-the-badge&logo=html5&logoColor=FFF)
-![CSS](https://img.shields.io/badge/CSS3-df91a9?style=for-the-badge&logo=css3&logoColor=FFF)
+![Python](https://img.shields.io/badge/Python-ab8977?style=for-the-badge&logo=python&logoColor=FFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-ab8977?style=for-the-badge&logo=javascript&logoColor=FFF)
+![C](https://img.shields.io/badge/C-ab8977?style=for-the-badge&logo=c&logoColor=FFF)
+[![Git](https://img.shields.io/badge/Git-ab8977?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-ab8977?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
+![HTML5](https://img.shields.io/badge/HTML5-ab8977?style=for-the-badge&logo=html5&logoColor=FFF)
+![CSS](https://img.shields.io/badge/CSS3-ab8977?style=for-the-badge&logo=css3&logoColor=FFF)
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomaflores&bg_color=0d1117&color=df91a9&line=df91a9&point=df91a9&area=true&hide_border=true)
@@ -29,4 +29,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{palomaflores}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=df91a9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab8977&height=120&section=footer"/>
