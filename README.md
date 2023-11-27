@@ -26,7 +26,6 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomaflores&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true)
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{palomaflores}/count.svg" /></p> 
 <br>
 </div>
