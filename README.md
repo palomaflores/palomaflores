@@ -25,8 +25,5 @@
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomaflores&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true)
-<div align="center">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{palomaflores}/count.svg" /></p> 
-<br>
-</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab8977&height=120&section=footer"/>
