@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaflores&layout=compact&hide_border=true&title_color=be9b88&text_color=be9b88&bg_color=0d1117" />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-be9b88?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/paloma-flores1/)
-[![Instagram](https://img.shields.io/badge/-Instagram-be9b88?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/palomacode/)
+[![Instagram](https://img.shields.io/badge/-Instagram-be9b88?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/palomaflores__/)
 [![Twitter](https://img.shields.io/badge/-Twitter-be9b88?style=for-the-badge&logo=twitter&logoColor=FFF)](https://twitter.com/pamstudy_)
 
 </div>
