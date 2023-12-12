@@ -7,6 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaflores&layout=compact&hide_border=true&title_color=be9b88&text_color=be9b88&bg_color=0d1117" />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-be9b88?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/paloma-flores-9aa0632a4/)
+[![Gmail](https://img.shields.io/badge/-Gmail-be9b88?style=for-the-badge&logo=gmail&logoColor=FFF)](palomaflorescode@gmail.com)
+
 </div>
 
 ### Studying in this moment:
