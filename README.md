@@ -13,13 +13,12 @@
 ### Studying in this moment:
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-be9b88?style=for-the-badge&logo=python&logoColor=FFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-be9b88?style=for-the-badge&logo=javascript&logoColor=FFF)
 ![C](https://img.shields.io/badge/C-be9b88?style=for-the-badge&logo=c&logoColor=FFF)
-[![Git](https://img.shields.io/badge/Git-be9b88?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-be9b88?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
 ![HTML5](https://img.shields.io/badge/HTML5-be9b88?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/CSS3-be9b88?style=for-the-badge&logo=css3&logoColor=FFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-be9b88?style=for-the-badge&logo=javascript&logoColor=FFF)
+[![Git](https://img.shields.io/badge/Git-be9b88?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-be9b88?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomaflores&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true)
