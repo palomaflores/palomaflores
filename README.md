@@ -6,8 +6,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=palomaflores&show_icons=true&count_private=true&hide_border=true&title_color=98bc89&icon_color=98bc89&text_color=c9d1d9&bg_color=0d1117" alt="Paloma Flores github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaflores&layout=compact&hide_border=true&title_color=98bc89&text_color=FFF&bg_color=0d1117" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-98bc89?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/paloma-flores-9aa0632a4/)
-
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomaflores&bg_color=0d1117&color=98bc89&line=98bc89&point=98bc89&area=true&hide_border=true)
