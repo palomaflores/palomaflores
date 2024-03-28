@@ -10,15 +10,6 @@
 
 </div>
 
-### Studying in this moment:
-<div align="center">
-
-![C](https://img.shields.io/badge/C-98bc89?style=for-the-badge&logo=c&logoColor=FFF)
-![HTML5](https://img.shields.io/badge/HTML5-98bc89?style=for-the-badge&logo=html5&logoColor=FFF)
-[![Git](https://img.shields.io/badge/Git-98bc89?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-98bc89?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
-</div>
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomaflores&bg_color=0d1117&color=98bc89&line=98bc89&point=98bc89&area=true&hide_border=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98bc89&height=120&section=footer"/>
