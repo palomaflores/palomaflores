@@ -16,9 +16,6 @@ Minha jornada de aprendizagem:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palomaflores&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/a1/62/3a/a1623ab5fa588b28c3a4315450d981bc.gif"  />
-<br>
-
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,git,ai,docker,kali,vscode,windows,linux&theme=dark)](https://skillicons.dev)
 
 ### Conecte-se comigo
