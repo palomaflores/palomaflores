@@ -12,8 +12,8 @@ Minha jornada de aprendizagem:
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palomaflores&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palomaflores&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=palomaflores&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palomaflores&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
 
@@ -23,9 +23,9 @@ Minha jornada de aprendizagem:
 </div>
   
 ### Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5cb8ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-floresm)
-[![Gmail](https://img.shields.io/badge/Gmail-5cb8ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palomaflores.dev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5cb8ff?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1333523387934576711)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7a167a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-floresm)
+[![Gmail](https://img.shields.io/badge/Gmail-7a167a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palomaflores.dev@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7a167a?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1333523387934576711)
 
 ### Conheça o Projeto STEM GIRLS
-[![STEM Girls](https://img.shields.io/badge/STEM_Girls-2196f3?style=for-the-badge&logo=stemgirs&logoColor=white)](https://www.linkedin.com/company/stemgirlsoficial/)
+[![STEM Girls](https://img.shields.io/badge/STEM_Girls-3b003f?style=for-the-badge&logo=stemgirs&logoColor=white)](https://www.linkedin.com/company/stemgirlsoficial/)
