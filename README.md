@@ -1,6 +1,6 @@
 <h2 align="left"> Olá! Meu nome é Paloma Flores, graduanda em Engenharia de Software!</h2>
 
-Boas-vindas ao meu repositório pessoal! Sou uma entusiasta apaixonada por tecnologia, explorando profundamente codificação e segurança cibernética! Meu foco está em Purple Team e DevSecOps, sempre buscando fortalecer a defesa e o ataque cibernético. De Python, C e C++ a Docker, Inteligência Artificial, Kali Linux e sistemas operacionais como Linux e Windows, adoro experimentar tudo relacionado à tecnologia!. Além disso, adoro explorar novas ferramentas e desafios no mundo da segurança da informação! 🚀
+Boas-vindas ao meu repositório pessoal! Sou uma entusiasta apaixonada por tecnologia, explorando profundamente codificação e segurança cibernética! Meu foco está em DevOps e DevSecOps, sempre buscando fortalecer a defesa e o ataque cibernético. De Python, C e C++ a Docker, Inteligência Artificial, Kali Linux e sistemas operacionais como Linux e Windows, adoro experimentar tudo relacionado à tecnologia!. Além disso, adoro explorar novas ferramentas e desafios no mundo da segurança da informação! 🚀
 
 Minha jornada de aprendizagem:
 - <b>Python, C e C++:</b> Explorando lógica de programação, desenvolvimento seguro e performance.
