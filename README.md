@@ -5,7 +5,6 @@ Boas-vindas ao meu repositório pessoal! Sou uma entusiasta apaixonada por tecno
 Minha jornada de aprendizagem:
 - <b>Python, C e C++:</b> Explorando lógica de programação, desenvolvimento seguro e performance.
 - <b>Segurança Cibernética (Purple Team & DevSecOps):</b> Aprimorando estratégias ofensivas e defensivas para proteger sistemas.
-- <b>Docker:</b> Aprendendo sobre containerização e automação de ambientes.
 - <b>Sistemas Operacionais (Linux & Windows):</b> Estudando administração, segurança e funcionamento interno.
 - <b>Inteligência Artificial:</b> Investigando algoritmos e aplicações para resolver problemas complexos.
 - <b>Kali Linux:</b> Aprofundando conhecimentos em testes de invasão e segurança ofensiva.
@@ -19,13 +18,9 @@ Minha jornada de aprendizagem:
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,git,ai,docker,kali,vscode,windows,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pycharm,git,windows,linux,kali,bash,gcp,obsidian,powershell,vscode&theme=dark)](https://skillicons.dev)
 </div>
   
 ### Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-84b6f4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-floresm)
+[![](https://img.shields.io/badge/LinkedIn-84b6f4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-floresm)
 [![Gmail](https://img.shields.io/badge/Gmail-84b6f4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palomaflores.dev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-84b6f4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1333523387934576711)
-
-### Conheça o Projeto STEM GIRLS
-[![STEM Girls](https://img.shields.io/badge/STEM_Girls-84b6f4?style=for-the-badge&logo=stemgirs&logoColor=white)](https://www.linkedin.com/company/stemgirlsoficial/)
