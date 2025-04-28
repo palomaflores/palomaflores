@@ -11,8 +11,8 @@ Minha jornada de aprendizagem:
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palomaflores&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palomaflores&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=palomaflores&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palomaflores&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
 
@@ -22,5 +22,5 @@ Minha jornada de aprendizagem:
 </div>
   
 ### Conecte-se comigo
-[![](https://img.shields.io/badge/LinkedIn-84b6f4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-floresm)
-[![Gmail](https://img.shields.io/badge/Gmail-84b6f4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palomaflores.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-03bb85?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-floresm)
+[![Gmail](https://img.shields.io/badge/Gmail-03bb85?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palomaflores.dev@gmail.com)
